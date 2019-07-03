@@ -1,0 +1,114 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+#background{
+	position: absolute;
+	float:right;
+	right :57%;
+	top:14%;
+	width : 64% ;
+	height : 90% ;
+	
+}
+
+#sefaresh {
+	font-weight: bold;
+	position: absolute;
+ 	 top: 35%;
+  	right: 15%;
+	 font-size:250%;
+}
+
+#showlist{
+	position: absolute;
+ 	left : 25%;
+   	top : 46%;
+	color :Gray;
+}
+form {
+	position: absolute;
+ border: 1px solid  white;
+ background-color: white;
+	top:55%;
+	left:23%;
+	height:13%;
+	width: 58%;
+	padding:5px;
+
+}
+select{
+	-webkit-appearance: none;
+	position: absolute;
+	top:14%;
+	right: 3%;
+	padding: 22px 50px;
+	text-align: center;
+	background-color : white;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 5px;
+  	box-sizing: border-box;
+}
+input[type=text] {
+
+	position: absolute;
+	top:14%;
+	left:4%;
+	  width: 76%;
+	  padding: 24px 24px;
+ 	 display: inline-block;
+ 	 border: 1px solid #ccc;
+	  border-radius: 6px;
+ 	 box-sizing: border-box;
+	text-align: right;
+	color:Gray;
+	background-image:url('./picture/location.png');
+	background-repeat:no-repeat;
+   	background-position :right;
+    	padding-right: 40px;
+}
+#arrow{
+	position: absolute;
+	top:60%;
+	right:22%;
+	font-size:170%;
+	color:black;
+}
+#SearchIcon{
+	position: absolute;
+ 	left : 25.1%;
+   	top : 57.25%;
+	color:white;
+	font-size:30px;
+	padding:17px;
+	border-radius: 6px;
+	background-image: linear-gradient(270deg,#8b00af,#d40062,#ff0613)
+	
+}
+h6{
+	position:absolute;
+ 	left :60%;
+   	top : 52.15%;
+}
+#timer{
+	position: absolute;
+ 	right : 19.5%;
+   	top : 67.75%;
+	width:1.5%;
+	height:1.5%;
+}
+#lastsearch{
+	position: absolute;
+ 	right : 21.5%;
+   	top : 64%;
+
+} 
+#inset_line{
+	position: absolute;
+ 	right : 21%;
+   	top : 70%;
+	height:1%;
+	width:18%;
+border-top:1px solid black;
+}
+
+
